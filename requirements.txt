@@ -1,0 +1,4 @@
+django_admin_rangefilter==0.3.12
+django_advanced_filters==1.1.1
+Django==2.1
+django_admin_numeric_filter==0.1.3
