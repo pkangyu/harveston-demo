@@ -1,1 +1,0 @@
-web: gunicorn harveston.wsgi:application --log-file -

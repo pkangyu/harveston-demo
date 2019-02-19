@@ -1,1 +1,1 @@
-"web: gunicorn harveston.wsgi --log-file -" 
+web: gunicorn harveston.wsgi:application --log-file -
